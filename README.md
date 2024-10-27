@@ -1,2 +1,2 @@
-# argon browser - A new level of Internet use
+# argon browser - A new level of Internet experience
 
