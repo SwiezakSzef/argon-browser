@@ -1,2 +1,2 @@
-# argon-browser
-New fork of FireFox.
+# argon browser - A new level of Internet use
+
